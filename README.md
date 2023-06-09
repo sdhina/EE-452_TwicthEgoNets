@@ -6,6 +6,6 @@ To reproduce our results you can download the Twitch Ego Nets Dataset from https
 
 You can find our report [here](https://github.com/sdhina/EE-452_TwicthEgoNets/edit/main/Report/Report_Group07.pdf)
 
-You can find our code [here](https://github.com/sdhina/EE-452_TwicthEgoNets/edit/main/code/Code_Group07.ipynb)
+You can find our code [here](https://github.com/sdhina/EE-452_TwicthEgoNets/edit/main/Code/Code_Group07.ipynb)
 
 You don't need any further installation to run our code, just remember to change the paths of the directory of the dataset.
