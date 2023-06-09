@@ -2,7 +2,7 @@
 
 This is the repository for our Network Machine Learning final project. 
 
-To reproduce our result you can download the datasets from (https://snap.stanford.edu/data/twitch_ego_nets.html) 
+To reproduce our result you can download the Twitch Ego Nets Dataset from https://snap.stanford.edu/data/twitch_ego_nets.html
 
 You can find our report [here] ()
 
